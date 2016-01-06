@@ -1,4 +1,4 @@
-package com.nagarro.springbootjerseynoxml.service;
+package com.ces.springbootjerseynoxml.service;
 
 import org.springframework.stereotype.Service;
 

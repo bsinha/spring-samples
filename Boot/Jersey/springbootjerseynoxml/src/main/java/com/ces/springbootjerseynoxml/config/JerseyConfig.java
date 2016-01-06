@@ -1,9 +1,9 @@
-package com.nagarro.springbootjerseynoxml.config;
+package com.ces.springbootjerseynoxml.config;
 
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.stereotype.Component;
 
-import com.nagarro.springbootjerseynoxml.resource.GreetingResource;
+import com.ces.springbootjerseynoxml.resource.GreetingResource;
 
 @Component
 public class JerseyConfig extends ResourceConfig {

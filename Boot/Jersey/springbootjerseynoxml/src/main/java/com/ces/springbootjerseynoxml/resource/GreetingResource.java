@@ -1,11 +1,11 @@
-package com.nagarro.springbootjerseynoxml.resource;
+package com.ces.springbootjerseynoxml.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.nagarro.springbootjerseynoxml.service.GreetingService;
+import com.ces.springbootjerseynoxml.service.GreetingService;
 
 @Path("/greetings")
 public class GreetingResource {

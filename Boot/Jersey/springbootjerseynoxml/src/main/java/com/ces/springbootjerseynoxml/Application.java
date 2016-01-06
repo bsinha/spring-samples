@@ -1,4 +1,4 @@
-package com.nagarro.springbootjerseynoxml;
+package com.ces.springbootjerseynoxml;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
