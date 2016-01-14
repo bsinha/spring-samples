@@ -1,1 +1,2 @@
-Jersey Application wuth Spring Boot Setup
+#Spring Sample Applications
+##Jersey Application with Spring Boot Setup.

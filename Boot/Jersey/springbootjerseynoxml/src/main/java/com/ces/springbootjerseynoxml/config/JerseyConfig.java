@@ -1,3 +1,6 @@
+/*
+ * Copyright@ CES. 2015 
+ */
 package com.ces.springbootjerseynoxml.config;
 
 import org.glassfish.jersey.server.ResourceConfig;

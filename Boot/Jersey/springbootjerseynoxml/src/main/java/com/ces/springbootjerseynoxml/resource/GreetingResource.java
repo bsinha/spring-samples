@@ -1,3 +1,6 @@
+/*
+ * Copyright@ CES. 2015 
+ */
 package com.ces.springbootjerseynoxml.resource;
 
 import javax.ws.rs.GET;
