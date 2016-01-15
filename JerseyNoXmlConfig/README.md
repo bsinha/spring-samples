@@ -1,0 +1,1 @@
+#Spring Jersey application with Java Based Configuration
